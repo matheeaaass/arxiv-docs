@@ -1,4 +1,4 @@
-# Setup of the buckets for arxiv-docs
+# Setup on the buckets for arxiv-docs
 
 There are two parts. 
 
